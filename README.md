@@ -1,12 +1,12 @@
 # About Higher Order Components (HOC)
-HOC are the way to reuse the component logic.
-It takes a componet as input and returns a new component with additional apllied operation on it.
+HOC are the way to reuse the component logic.\
+It takes a componet as input and returns a new component with additional apllied operation on it.\
 
-# Example
-in the example we created 3 componet .
-CompontA .
-CompontB .
-HOC : in this we have created one single logic that we have used in both ComponentA and ComponentB without created same logic separately for each componet.
+## Example
+in the example we created 3 componet .\
+CompontA .\
+CompontB .\
+HOC : in this we have created one single logic that we have used in both ComponentA and ComponentB without created same logic separately for each componet.\
 
 # Getting Started with Create React App
 
